@@ -1,0 +1,23 @@
+3. Give the Gem enough project context
+Start with these files, where available:
+File	Why it helps
+README.md	Setup and application purpose
+docs/PROJECT_STATUS.md	Current progress and limitations
+Root package.json	Commands and dependencies
+Architecture/calculation documentation	How scanning and estimates work
+
+
+Use only material approved for the Gemini account you choose. Uploading files to a cloud Gem is separate from EcoLens keeping its analysed code local.
+Refresh uploaded documents when the project changes. Creating a Gem does not automatically connect it to your cloned Windows folder or keep it synced with GitHub.
+
+Your first message to the Gem:
+
+We are continuing Airbus EcoLens.
+Read the project documents I supplied. Explain:
+1. What currently works.
+2. How the current carbon estimate is calculated.
+3. What remains unverified.
+4. How to start this repository on Windows using its actual scripts.
+
+Do not change or redesign anything yet.
+First establish an accurate understanding of the existing project.
