@@ -1,0 +1,5 @@
+node_modules/
+apps/web/dist/
+.data/
+examples/generated/
+playwright-results/

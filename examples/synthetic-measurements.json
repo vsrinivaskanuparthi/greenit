@@ -1,0 +1,28 @@
+{
+  "label": "SYNTHETIC DEMONSTRATION ONLY — not measured, and not evidence of savings caused by source changes",
+  "operational": {
+    "kWh": 0.25,
+    "intensity": 400,
+    "period": "one synthetic 60-minute test",
+    "boundary": "synthetic server wall-plug electricity only",
+    "workload": "synthetic fixed request batch",
+    "provenance": "synthetic",
+    "workCount": 1000,
+    "workUnit": "requests",
+    "factorSource": "Invented demonstration factor; not a regional claim",
+    "factorDate": "2026-10-02",
+    "factorRegion": "Synthetic region"
+  },
+  "transfer": {
+    "bytes": 100000000,
+    "greenHosting": false,
+    "model": "swd-v4",
+    "packageVersion": "0.18.0",
+    "period": "one synthetic 60-minute test",
+    "boundary": "web delivery, SWD v4 model boundary",
+    "workload": "synthetic fixed request batch",
+    "provenance": "synthetic",
+    "workCount": 1000,
+    "workUnit": "requests"
+  }
+}

@@ -1,0 +1,29 @@
+EcoLens sample application — synthetic business data only
+Requires Node.js 22 and npm. From this extracted folder:
+1. npm install
+2. npm run mock (terminal 1, http://127.0.0.1:4101)
+3. npm start (terminal 2, http://127.0.0.1:4100)
+Stop the application, then npm run improved to compare on the same port.
+The SQLite database is seeded from products.json on each application startup.
+No credentials, public network services, artificial delays or padded records are used.
+server.js is a complete static-analysis input; running it requires seed.js,
+reference.json, products.json, the installed dependencies and local mock service.
+
+Controlled journey: GET all 12 products across three pages (limit=4), then full
+product 1, reference data, order 1 summary, and availability 1. The list task
+requires id, name, priceCents and category for every product. The improved
+version selects these four fields; descriptions, material, supplier and
+inspection notes remain available on the unchanged product-detail endpoint.
+No records are skipped. The automatic runner checks every required product
+field, complete product detail, order lines/total, reference and availability.
+
+Trade-offs: clients relying on extra list fields must use the detail endpoint
+or retain the original contract; additional detail requests can negate savings.
+Both versions support bounded pagination. Improved reference data is cached
+until process restart: restart after edits, and never mutate the shared object.
+Caching does not reduce the CO2.js result when response bytes are unchanged.
+
+CO2.js applies SWD v4 to actual collected uncompressed response bodies as a
+web-transfer reference scenario. It is not measured localhost electricity or
+Airbus network emissions. Warm-up, headers, requests and internal mock traffic
+are outside the recorded boundary. Results vary with the real user journey.

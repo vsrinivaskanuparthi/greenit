@@ -1,0 +1,8 @@
+{
+  "after/app.js": "6aa5ff6d154c96c73210676de3ce8fabe78e1dd09cf8d8c4c9e61afc8e3a68cc",
+  "after/server.js": "0c026336678f38376afe0c5ca296cca526aaacf038f4ed206662fffa0676dd42",
+  "before/app.js": "26ac61b113e78297f4fe8bbac3b4bc048255ff09bcf332cca722005d124984c4",
+  "before/server.js": "0cca094891417d5f5950c71db72eaf4366e05a31aaecde3af890295f4ce5a664",
+  "reference-data.json": "0c040dcd4aa29e3934ac8cfc657906eba6875951e3a34682724846b4d19cf8a1",
+  "scenario.json": "2782586a3d31f62b383fcdd673d589f0e99eb161dc7f78d76275cd3a41f0a923"
+}

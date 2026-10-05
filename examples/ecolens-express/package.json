@@ -1,0 +1,14 @@
+{
+  "name": "ecolens-sample-application",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "improved": "node improved/server.js",
+    "mock": "node mock-service.js"
+  },
+  "dependencies": {
+    "express": "5.2.1",
+    "better-sqlite3": "11.10.0"
+  }
+}

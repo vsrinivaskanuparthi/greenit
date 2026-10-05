@@ -1,0 +1,20 @@
+{
+  "label": "Sample application",
+  "revision": "reference-2026-10",
+  "warehouses": [
+    {"id":"WH-01","name":"North Store","region":"North","active":true},
+    {"id":"WH-02","name":"South Store","region":"South","active":true},
+    {"id":"WH-03","name":"Central Store","region":"Central","active":true}
+  ],
+  "categories": [
+    {"id":"CAT-01","name":"Fasteners","unit":"each"},
+    {"id":"CAT-02","name":"Packaging","unit":"pack"},
+    {"id":"CAT-03","name":"Tools","unit":"each"},
+    {"id":"CAT-04","name":"Office supplies","unit":"box"},
+    {"id":"CAT-05","name":"Cleaning supplies","unit":"bottle"}
+  ],
+  "orderStatuses": ["draft","submitted","approved","dispatched","received","cancelled"],
+  "units": ["each","pack","box","bottle","metre","kilogram"],
+  "currencies": ["EUR","GBP","USD"],
+  "note": "Synthetic inventory reference data; no company data."
+}

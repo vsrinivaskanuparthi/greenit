@@ -1,0 +1,13 @@
+{
+  "label": "Sample application",
+  "currency": "EUR",
+  "units": [
+    "each",
+    "pack"
+  ],
+  "orderStatuses": [
+    "draft",
+    "ready",
+    "dispatched"
+  ]
+}

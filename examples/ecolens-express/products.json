@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Storage tray",
+    "priceCents": 450,
+    "category": "Storage",
+    "description": "Storage tray for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Recycled polymer",
+    "supplier": "Fictional North Supply",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 2,
+    "name": "Label holder",
+    "priceCents": 575,
+    "category": "Assembly",
+    "description": "Label holder for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Aluminium",
+    "supplier": "Fictional East Materials",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 3,
+    "name": "Cable guide",
+    "priceCents": 700,
+    "category": "Packaging",
+    "description": "Cable guide for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Woven fibre",
+    "supplier": "Fictional North Supply",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 4,
+    "name": "Desk bracket",
+    "priceCents": 825,
+    "category": "Storage",
+    "description": "Desk bracket for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Recycled polymer",
+    "supplier": "Fictional East Materials",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 5,
+    "name": "Parts bin",
+    "priceCents": 950,
+    "category": "Assembly",
+    "description": "Parts bin for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Aluminium",
+    "supplier": "Fictional North Supply",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 6,
+    "name": "Packing sleeve",
+    "priceCents": 1075,
+    "category": "Packaging",
+    "description": "Packing sleeve for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Woven fibre",
+    "supplier": "Fictional East Materials",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 7,
+    "name": "Shelf divider",
+    "priceCents": 1200,
+    "category": "Storage",
+    "description": "Shelf divider for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Recycled polymer",
+    "supplier": "Fictional North Supply",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 8,
+    "name": "Tool pouch",
+    "priceCents": 1325,
+    "category": "Assembly",
+    "description": "Tool pouch for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Aluminium",
+    "supplier": "Fictional East Materials",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 9,
+    "name": "Document wallet",
+    "priceCents": 1450,
+    "category": "Packaging",
+    "description": "Document wallet for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Woven fibre",
+    "supplier": "Fictional North Supply",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 10,
+    "name": "Transit cover",
+    "priceCents": 1575,
+    "category": "Storage",
+    "description": "Transit cover for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Recycled polymer",
+    "supplier": "Fictional East Materials",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 11,
+    "name": "Assembly stand",
+    "priceCents": 1700,
+    "category": "Assembly",
+    "description": "Assembly stand for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Aluminium",
+    "supplier": "Fictional North Supply",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  },
+  {
+    "id": 12,
+    "name": "Inspection mat",
+    "priceCents": 1825,
+    "category": "Packaging",
+    "description": "Inspection mat for organising routine workshop supplies. Supplied individually for standard internal stock replenishment.",
+    "material": "Woven fibre",
+    "supplier": "Fictional East Materials",
+    "inspectionNote": "Check dimensions and packaging on receipt; keep dry in the designated storage area."
+  }
+]

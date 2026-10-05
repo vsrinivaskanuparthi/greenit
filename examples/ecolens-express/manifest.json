@@ -1,0 +1,10 @@
+{
+  "SETUP.txt": "6a030dd5c654aa7b5f2debd6db062c3605aa46f1ff4b31bbf5f1cbb8e0e43e31",
+  "improved/server.js": "f1e16bf26e2deb2632b8231a298f99ece700f03c27ce96dcda98b42dbfa01d18",
+  "mock-service.js": "ebc0771ff764152665cd05ab5f8155998e9fd718afd95d9f6f5d4c5e013d1c04",
+  "package.json": "89782887dcb32a28e7fd5d75785467ce0bae599a8efc29dc0637bd28f240fe2a",
+  "products.json": "8e2c14c524b28d4f8bc477fdec238e8754694559e3ed5685fa7ffe7ad0ced8af",
+  "reference.json": "b83758e284890d404afa01c1729982a896705706ada44bd3e2b86c7b31b60740",
+  "seed.js": "a3fb83544f90e081a6e4963dcd97f28126379d1fa80ff6fe4df5bc1e4c418fe1",
+  "server.js": "75540ea47ace7dec37e50f8c86d67d998c2b62a90d2ac9ba6dcd1cb142531165"
+}

@@ -1,0 +1,21 @@
+{
+  "model": "fixed-allocation-time",
+  "version": "1.0.0",
+  "label": "Scenario-based operational carbon estimate",
+  "allocatedPowerWatts": 10,
+  "powerProvenance": "illustrative assumption",
+  "powerSource": "A hypothetical constant 10 W compute allocation for the duration of each measured request batch. Chosen for arithmetic demonstration, not a hardware power measurement, TDP, or empirically calibrated application allocation.",
+  "carbonIntensityGramsPerKWh": 400,
+  "factorProvenance": "illustrative assumption",
+  "factorSource": "A hypothetical 400 gCO2e/kWh electricity supply. Not a regional, Airbus, or current grid factor.",
+  "factorDate": "2026-10-02",
+  "factorRegion": "Hypothetical supply",
+  "boundary": "Hypothetical operational compute allocation during the warmed target-process request-batch interval only",
+  "functionalUnit": "1000 successful GET /reference-data requests",
+  "exclusions": [
+    "Startup and cache-loading energy, warm-up, idle time outside the batch, load-generator energy",
+    "Storage and network energy, cooling/PUE, embodied hardware emissions and the rest of the software lifecycle"
+  ],
+  "formulaSource": "https://sci.greensoftware.foundation/",
+  "formulaNote": "Uses E times I per functional unit for the operational component only. Energy here is an illustrative power-times-duration allocation; this is not a complete SCI assessment."
+}
